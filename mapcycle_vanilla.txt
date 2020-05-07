@@ -18,6 +18,7 @@ zm_blockade_bv
 //zm_bluevelvet_b4
 zm_bluevelvet_rc1
 //zm_bman_battle1_110112a
+//zm_boat_escape_v2
 //zm_box_master_a2_fixed
 zm_boxfort_v4
 zm_breezeinthewoods_b7_TDR
